@@ -354,8 +354,8 @@ margin-bottom: 16px;}
     margin-bottom: 16px;}
 
 .social-box {
-    width: 208px;
-    height: 80px;
+    /* width: 208px;
+    height: 80px; */
     margin-right: 80px;
 }
 .social-footer {
@@ -368,8 +368,8 @@ margin-bottom: 16px;}
     background-color: #31d0aa;
 }
 .footer-submit-box {
-    max-width: 453px;
-    height: 80px;
+    /* max-width: 453px;
+    height: 80px; */
 }
 .form-footer {
     display: flex;
